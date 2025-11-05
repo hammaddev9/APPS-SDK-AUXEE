@@ -2,8 +2,8 @@
   "name": "Auxee",
   "description": "Auxee inside ChatGPT (notes & actions)",
   "auth": { "type": "none" },
-  "mcp_server": "https://5ebbd0d55bbb.ngrok-free.app",
-  "homepage": "/",
+  "mcp_server": "https://unirritated-concessively-alena.ngrok-free.dev",
+  "homepage": "/app/",    
   "capabilities": {
     "ui": true
   }
